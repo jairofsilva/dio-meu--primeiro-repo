@@ -1,1 +1,2 @@
-# dio-meu--primeiro-repo
+# dio-meu-primeiro-repo
+Parte do desafio sobre git/github
